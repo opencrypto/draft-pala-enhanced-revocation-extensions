@@ -6,16 +6,16 @@ category: std
 
 docname: draft-pala-enhanced-revocation-extensions-latest
 v: 3
-area: Security
-workgroup: LAMPS
+# area: Security
+# workgroup: LAMPS
 keyword: Internet-Draft
 venue:
-  group: LAMPS
-  type: Working Group
-  mail: spasm@ietf.org
-  arch: https://datatracker.ietf.org/wg/lamps/documents/
-  github: https://github.com/opencrypto/draft-pala-enhanced-revocation-extensions
-  latest: https://github.com/opencrypto/draft-pala-enhanced-revocation-extensions/LATEST
+#  group: LAMPS
+#  type: Working Group
+#  mail: spasm@ietf.org
+#  arch: https://datatracker.ietf.org/wg/lamps/documents/
+  github: "opencrypto/draft-pala-enhanced-revocation-extensions"
+  latest: "https://opencrypto.github.io/draft-pala-enhanced-revocation-extensions/draft-pala-enhanced-revocation-extensions.html"
 
 author:
  -
